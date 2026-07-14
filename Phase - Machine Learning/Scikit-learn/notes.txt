@@ -26,6 +26,10 @@ Linear Regression learns a straight-line relationship between X and y and uses t
 
 Interview definition
 
+simple definition: 
+Linear Regression is a supervised learning algorithm that
+learns the relationship between X and y from historical data and predicts continuous values for new inputs.
+
 Linear Regression is a supervised learning algorithm used to predict a
       continuous numerical value by fitting the best possible
       straight line through the training data.
