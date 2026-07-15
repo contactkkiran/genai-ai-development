@@ -168,12 +168,6 @@ class RAGService:
             print(f"Score    : {score:.2f}")
             print(f"Document : {result['document']['filename']}")
 
-            print("-" * 80)
-
-            # Display only the first 300 characters
-            # to keep the console output concise.
-            print(result["document"]["content"][:300])
-
             print("=" * 80)
             print()
 

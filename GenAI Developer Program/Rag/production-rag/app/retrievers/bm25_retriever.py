@@ -153,6 +153,4 @@ if __name__ == "__main__":
 
         print(f"Document : {result['document']['filename']}")
 
-        print(result["document"]["content"][:300])
-
         print()
