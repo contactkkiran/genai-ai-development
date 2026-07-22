@@ -1,0 +1,7 @@
+langchain-core
+langchain-chroma
+langchain-openai
+langchain-text-splitters
+chromadb
+PyMuPDF
+python-dotenv
